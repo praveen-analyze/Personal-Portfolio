@@ -1,61 +1,28 @@
-Personal Portfolio Website
+# Personal Portfolio Website
 
-This is my personal portfolio website built using HTML5 and CSS3.
-The website showcases my profile, interests, projects, and contact information in a clean and structured layout.
+A clean, minimalist personal portfolio built with **HTML5** and **CSS3**. This project serves as a professional landing page to showcase my profile, technical interests, and recent projects.
 
-Pages Included
+---
 
-Home Page – Displays my name, role, about section, interests, and projects.
+## 🚀 Features
 
-Contact Page – Contains contact details and navigation support.
+* **Semantic HTML5:** Built with accessibility and SEO best practices in mind.
+* **Custom Styling:** Fully original CSS3 styling (no heavy frameworks).
+* **Structured Layout:** Easy-to-navigate sections for About, Interests, and Projects.
+* **Typography:** Integration with Google Fonts for a modern look.
+* **Contact Integration:** Dedicated contact page for professional inquiries.
 
-Features
+## 🛠️ Technologies Used
 
-Semantic HTML structure
+* **HTML5:** Structure and content.
+* **CSS3:** Layout, colors, and typography.
+* **Google Fonts:** Custom web fonts for enhanced UI.
 
-Organized section-based layout
+## 📁 Project Structure
 
-Custom CSS styling
-
-Google Fonts integration
-
-Simple and clean design
-
-Technologies Used
-
-HTML5
-
-CSS3
-
-Google Fonts
-
-Project Structure
+```text
 personal-portfolio/
 │
-├── index.html
-├── contact.html
-└── style.css
-
-Purpose of the Project
-
-This project was created to practice front-end development fundamentals and to build a basic personal portfolio website.
-
-It demonstrates my understanding of:
-
-HTML page structure
-
-CSS styling and layout
-
-Section organization
-
-Basic website navigation
-
-Future Improvements
-
-Make the website fully responsive
-
-Add animations and transitions
-
-Improve UI design
-
-Deploy the website online
+├── index.html      # Main landing page (About, Interests, Projects)
+├── contact.html    # Contact information and navigation
+└── style.css       # Global stylesheet for both pages
